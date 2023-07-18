@@ -2,8 +2,10 @@
 
 ## About Me
 
-- 🧑‍💻 I'm a teenage tech enthusiast passionate about coding and open-source contribution.
+- 🧑‍💻 I'm Adithyan, a teenage tech enthusiast passionate about coding and open-source contribution.
+
 - 🐍 Python is my primary programming language, and I love exploring its versatility and expressive power.
+
 - 🌱 I'm particularly interested in emerging technologies like Machine Learning (ML) and Artificial Intelligence (AI).
 
 
