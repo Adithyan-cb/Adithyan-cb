@@ -22,6 +22,7 @@
 
 - ⚡️ Apart from coding, I find joy in watching anime series, immersing myself in captivating stories and diverse art styles.
 - 🎨 Drawing is another creative outlet I indulge in. It allows me to express my imagination and bring ideas to life on paper.
+- ⚡️ In addition to coding, I also create coding and tech-related content on Instagram, sharing my knowlegde and coding tips.
 
 ## Connect with Me
 
