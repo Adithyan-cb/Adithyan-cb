@@ -1,36 +1,24 @@
-<h1 align="center">Hi 👋, I'm Adithyan.C.B</h1>
-<h3 align="center">BCA student</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adithyan-cb&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyan-cb" /> </p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adithyan.C.B
+====================================================================================================================================BCA student from India----------------------An 18-year-old BCA student who's super passionate about AI and ML. I'm all about diving deep into the world of artificial intelligence and machine learning because, let's be real, the possibilities are endless! 🚀 When I'm not buried in textbooks or coding away, you can probably find me on Instagram sharing cool coding stuff and spreading the coding love. Let's connect and geek out over all things AI together! 🤖✨* 🌍  I'm based in kerala , india* ✉️  You can contact me at [adhicodes34@gmail.com](mailto:adhicodes34@gmail.com)* 🧠  I'm learning Sklearn* 🤝  I'm open to collaborating on AI,ML and python* ⚡  i know how to center a div...
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adithyan-cb&theme=tokyonight" alt="Adithyan-cb" /></a> </p>
+<a href="https://www.github.com/Adithyan-cb" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Adithyan-cb?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
-- 🌱 I’m currently learning **sklearn**
-- 💬 Ask me about **AI , Machine Learning , python**
-- 📫 How to reach me **adhicodes34@gmail.com**
-- ⚡ Fun fact **i love anime...**
+### Skills
 
-<div> <a href="https://twitter.com/adhi_codes" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Adithyan-cb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/adhi_codes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:adhicodes34@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://twitter.com/adhi_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="adhi_codes" height="30" width="40" /></a><a href="https://kaggle.com/adhi adithyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="adhi adithyan" height="30" width="40" /></a><a href="https://instagram.com/adhi_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="adhi_codes" height="30" width="40" /></a></p>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a></p>
+### Socials<p align="left"> <a href="https://www.github.com/Adithyan-cb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/adhi_codes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/adhi_codes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+### Badges
 
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Adithyan-cb&show_icons=true&locale=en&theme=tokyonight" alt="Adithyan-cb" /></p>
+<b>My GitHub Stats</b>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyan-cb&theme=tokyonight" alt="Adithyan-cb" /></p>
+<a href="http://www.github.com/Adithyan-cb"><img src="https://github-readme-stats.vercel.app/api?username=Adithyan-cb&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adithyan-cb's GitHub stats" /></a>
 
+<a href="http://www.github.com/Adithyan-cb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyan-cb&stroke=22c55e&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=22c55e&currStreakLabel=22c55e&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Adithyan-cb/Galactic-Warfare" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adithyan-cb&repo=Galactic-Warfare&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
