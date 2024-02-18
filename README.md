@@ -29,19 +29,8 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyan-cb&layout=compact&theme=tokyonight" alt=Adithyan-cb />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Adithyan-cb&show_icons=true&locale=en&theme=tokyonight" alt="Adithyan-cb" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyan-cb&theme=tokyonight" alt="Adithyan-cb" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Adithyan-cb">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adithyan-cb&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adithyan-cb&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adithyan-cb&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adithyan-cb&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adithyan-cb&theme=2077" height="180em" />
-</div>
 
