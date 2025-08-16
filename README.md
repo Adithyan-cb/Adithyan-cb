@@ -1,6 +1,6 @@
 # Adithyan C B 🎓
 
-**2nd Year BCA Student from India 🇮🇳**
+**3nd Year BCA Student from India 🇮🇳**
 
 ## Introduction
 
